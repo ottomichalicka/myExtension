@@ -1,0 +1,22 @@
+{
+	"projectName": "myshop",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "myshop CSS",
+		"file": "myshop.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/"
+		}]
+	}, {
+		"name": "myshop JS",
+		"file": "myshop.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/"
+		}]
+	}],
+	"resources" : []
+}
