@@ -1,0 +1,2 @@
+# myExtension
+aimeos extension
